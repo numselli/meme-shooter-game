@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2808cead11e8ab47977115238497c1a
+timeCreated: 1524332803
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - astroidsowner: {fileID: 1395954415295852, guid: 7fa984306f7f747aea47bb354e244255,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
